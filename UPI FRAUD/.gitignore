@@ -1,0 +1,5 @@
+*.csv
+*.sav
+*.pkl
+.DS_Store
+__pycache__/
